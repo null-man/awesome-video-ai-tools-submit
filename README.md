@@ -63,6 +63,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [DeepBrain](https://www.deepbrain.io/)
 - [Synthesia](https://www.synthesia.io/)
 - [Rocketium](https://rocketium.com/)
+- [GrokVideo Studio](https://grokvideogenerator.dev/) — Independent text/image-to-video via Grok Imagine API (not official xAI/X); free trial credits.
 
 ---
 
